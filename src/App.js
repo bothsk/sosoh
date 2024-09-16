@@ -5,12 +5,13 @@ function App() {
   return (
     <div 
     style={{
-      width:'100%',
-      height:'100vh',
+
       display:'flex',
       justifyContent:'center',
       alignItems:'center',
-      backgroundColor:'#ffe4ed'
+      backgroundColor:'#ffe4ed',
+      minWidth:'100vw',
+      minHeight:'100vh'
     }}>
       <div style={{
         display:'flex',
