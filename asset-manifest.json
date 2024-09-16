@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/soso/static/css/main.f855e6bc.css",
+    "main.js": "/soso/static/js/main.b7729835.js",
+    "static/js/453.2edf5c18.chunk.js": "/soso/static/js/453.2edf5c18.chunk.js",
+    "index.html": "/soso/index.html",
+    "main.f855e6bc.css.map": "/soso/static/css/main.f855e6bc.css.map",
+    "main.b7729835.js.map": "/soso/static/js/main.b7729835.js.map",
+    "453.2edf5c18.chunk.js.map": "/soso/static/js/453.2edf5c18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b7729835.js"
+  ]
+}
