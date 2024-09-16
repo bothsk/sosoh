@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sosoh/static/css/main.f855e6bc.css",
-    "main.js": "/sosoh/static/js/main.782f6471.js",
+    "main.js": "/sosoh/static/js/main.1043b2b2.js",
     "static/js/453.2edf5c18.chunk.js": "/sosoh/static/js/453.2edf5c18.chunk.js",
     "index.html": "/sosoh/index.html",
     "main.f855e6bc.css.map": "/sosoh/static/css/main.f855e6bc.css.map",
-    "main.782f6471.js.map": "/sosoh/static/js/main.782f6471.js.map",
+    "main.1043b2b2.js.map": "/sosoh/static/js/main.1043b2b2.js.map",
     "453.2edf5c18.chunk.js.map": "/sosoh/static/js/453.2edf5c18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.782f6471.js"
+    "static/js/main.1043b2b2.js"
   ]
 }
