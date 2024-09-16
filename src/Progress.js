@@ -26,7 +26,7 @@ const ProgressUI = ({startDate,endDate}) => {
     return (
       <div style={{ textAlign: 'center', fontFamily: 'Arial, sans-serif', color: '#333',display:'flex',flexDirection:'column',justifyContent:'center',alignItems:'center' }}>
         <div >
-          <h1 style={{ fontSize:'55px',margin: '0',color:'#76c7c0',marginBottom:'180px' }}>Sosoh's Australia Adventure 🦘&#128151; 
+          <h1 style={{ fontSize:'50px',margin: '0',color:'#76c7c0',marginBottom:'180px' }}>Sosoh's Australia Adventure 🦘&#128151; 
  </h1>
         </div>
         <div
@@ -77,7 +77,7 @@ const ProgressUI = ({startDate,endDate}) => {
           </div>
           <div style={{display:'flex',gridColumnGap:'10px',alignItems:'center',justifyContent:'center'}}>
                  <p >Last Day:</p>
-                <p style={{color:'#76c7c0'}}>{dayjs(endDate).format('DD MMMM YYYY')}</p>
+                <p style={{color:'#76c7c0'}}>{dayjs(endDate).format('DD MMM YYYY')}</p>
           </div>
           <div style={{display:'flex',gridColumnGap:'10px',alignItems:'center',justifyContent:'center'}}>
                 <p>Days Remaining: </p>
